@@ -1,5 +1,7 @@
 # atlasgeo_souha
 <img width="790" height="950" alt="welcomegeo" src="https://github.com/user-attachments/assets/3d06af4e-db01-4a8c-9983-8b9d17baf7d6" />
+<img width="811" height="977" alt="listegeo" src="https://github.com/user-attachments/assets/ca7333ad-d45a-4531-be87-4e9b95d242a2" />
+<img width="742" height="976" alt="detailgeo" src="https://github.com/user-attachments/assets/7b4f9f9a-b76c-4c84-bb7f-5b20ff050f15" />
 
 A new Flutter project.
 
